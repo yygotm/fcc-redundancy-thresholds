@@ -74,7 +74,7 @@ D_s(n) ≥ 2t + 2 for all n ≥ n_+ (success by Lemma B), so n_− − s < κ_s(
 
   κ_s(t) = 4t²/z_s² + O_s(t).
 
-Numerically κ_1(t) − 4t²/z_1² = 1.2, 0.8, 0.9, 1.3, 1.2, 1.5, 1.2, 1.3, 0.8 for t = 1..9,
+Numerically κ_1(t) − 4t²/z_1² = 1.2, 0.8, 0.9, 1.3, 1.2, 1.5, 1.2, 1.3, 0.8, 0.8 for t = 1..10,
 much smaller than the O(t) bound above.
 
 ## Exact values (computed; see kappa.py)
@@ -85,4 +85,4 @@ much smaller than the O(t) bound above.
 | 3 | 80 | 27 | 14 | 9 | 5 | | | | |
 | 4 | 142 | 49 | 26 | 17 | 12 | 7 | 4 | | |
 | 5 | 221 | 75 | 42 | 27 | 19 | 14 | 10 | 7 | 4 |
-κ_1(6) = 318, κ_1(7) = 432, κ_1(8) = 564, κ_1(9) = 713.
+κ_1(6) = 318, κ_1(7) = 432, κ_1(8) = 564, κ_1(9) = 713, κ_1(10) = 880.
