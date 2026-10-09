@@ -1,0 +1,14 @@
+t=1 s=1 k=9: fails at M=205
+t=1 s=1 k=10: all M ok
+t=2 s=3 k=5: fails at M=11
+t=2 s=3 k=6: all M ok
+t=2 s=2 k=11: fails at M=608
+t=2 s=2 k=12: all M ok
+t=3 s=5 k=4: fails at M=3
+t=3 s=5 k=5: all M ok
+t=3 s=4 k=8: fails at M=90
+t=3 s=4 k=9: all M ok
+t=4 s=7 k=3: fails at M=2
+t=4 s=7 k=4: all M ok
+t=4 s=6 k=6: fails at M=14
+t=4 s=6 k=7: all M ok
